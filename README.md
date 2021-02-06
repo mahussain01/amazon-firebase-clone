@@ -1,0 +1,1 @@
+# amazon-firebase-clone
